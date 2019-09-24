@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Lesson slides | [Here](other_data_foramts_lesson.pdf) |
-| Lab  | Practice problems (ipynb slides) | [Here](other_data_foramts_lab.ipynb) |
+| Lab  | Practice problems (ipynb slides) | [Here](other_data_formata_lab.ipynb) |
 | Datasets | Country/continent/servings of alcohol | [Here](./data/drinks.csv) |
 |          | UFO sighting records | [Here](./data/ufo.csv) |
 |          | Movie & Title Info from IMDB | [Here](./data/movies.tbl) |
